@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manav Niraula - Spiritual Journey</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Lora", serif;
+      background: #f6f9f7;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      padding: 50px 20px;
+      background: linear-gradient(to right, #9ad0ec, #a8e6cf);
+    }
+    header h1 {
+      margin: 0;
+      font-size: 3em;
+      color: #2f4858;
+    }
+    header p {
+      font-size: 1.2em;
+      color: #444;
+    }
+    nav {
+      background: #2f4858;
+      text-align: center;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-size: 1.1em;
+    }
+    section {
+      max-width: 800px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    h2 {
+      color: #2f4858;
+      border-bottom: 2px solid #a8e6cf;
+      padding-bottom: 5px;
+    }
+    footer {
+      text-align: center;
+      background: #2f4858;
+      color: white;
+      padding: 20px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Manav Niraula</h1>
+    <p>A Journey of Stillness, Breath, and Awareness</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#journal">Journal</a>
+    <a href="#yoga">Yoga & Pranayama</a>
+    <a href="#dhyan">Dhyan</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      Namaste 🙏 I am Manav Niraula, a spiritual seeker exploring the depths of 
+      meditation (Dhyan), Yoga, and Pranayama. This website is my space to share 
+      daily reflections, teachings, and practices for a peaceful life.
+    </p>
+  </section>
+
+  <section id="journal">
+    <h2>Daily Journal</h2>
+    <p>
+      Here, I will share my day-to-day experiences, thoughts, and lessons 
+      from the spiritual path.
+    </p>
+  </section>
+
+  <section id="yoga">
+    <h2>Yoga & Pranayama</h2>
+    <p>
+      Breathing, stretching, and flowing with awareness. I’ll share simple 
+      practices and tips for a healthy body and peaceful mind.
+    </p>
+  </section>
+
+  <section id="dhyan">
+    <h2>Dhyan (Meditation)</h2>
+    <p>
+      Dhyan is the art of stillness. I will write about techniques, 
+      insights, and the beauty of silence.
+    </p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>
+      You can reach me at: <b>manavniraula@example.com</b>
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2025 Manav Niraula | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
